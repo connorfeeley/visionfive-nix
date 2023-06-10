@@ -107,16 +107,16 @@
     },
     "nixpkgs": {
       "locked": {
-        "lastModified": 1657645802,
-        "narHash": "sha256-wd+LiuGtHP8mTIc0gZrO2yqzmEPVvh5IyWrB8WCQNKM=",
-        "owner": "matthewcroughan",
+        "lastModified": 1686226982,
+        "narHash": "sha256-nLuiPoeiVfqqzeq9rmXxpybh77VS37dsY/k8N2LoxVg=",
+        "owner": "NixOS",
         "repo": "nixpkgs",
-        "rev": "39a827f18b870afb02f6c0f09151c69f2d8e7a4d",
+        "rev": "a64b73e07d4aa65cfcbda29ecf78eaf9e72e44bd",
         "type": "github"
       },
       "original": {
-        "owner": "matthewcroughan",
-        "ref": "mc/riscv-testing",
+        "owner": "NixOS",
+        "ref": "nixos-unstable",
         "repo": "nixpkgs",
         "type": "github"
       }

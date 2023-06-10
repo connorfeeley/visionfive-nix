@@ -1,6 +1,6 @@
 {
   inputs = {
-    nixpkgs.url = "github:matthewcroughan/nixpkgs/mc/riscv-testing";
+    nixpkgs.url = "github:NixOS/nixpkgs/nixos-unstable";
 
     # VisionFive ("v1")
     vendor-kernel = {

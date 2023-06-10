@@ -30,7 +30,6 @@ in buildLinux (args // {
         includes = ["security/keys/dh.c"];
       };
     }
-    { patch = ./visionfive-2-duplicate-init-module.patch; }
     { patch = ./visionfive-2-pl330-name-collision.patch; }
     { patch = ./visionfive-2-gpu.patch; }
   ];

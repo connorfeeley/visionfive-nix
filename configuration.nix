@@ -24,7 +24,7 @@
 
   # Open port 19999 for Netdata
   networking.firewall.allowedTCPPorts = [ 19999 ];
-  services.netdata.enable = true;
+  services.netdata.enable = false; # FIXME: broken
 
   # Enable Avahi mDNS, you should be able to reach http://visionfive-nix:19999
   # to reach netdata when booted
